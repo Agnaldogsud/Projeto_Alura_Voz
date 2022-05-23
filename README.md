@@ -5,6 +5,6 @@ Você foi contratado(a) como cientista de dados pela operadora de telecomunicaç
 Assim, o desafio tem como objetivo utilizar conceitos de Data Science para explorar, tratar e modelar uma base de dados de clientes da Alura Voz. Com isso, serão testadas hipóteses para dscrever o padrão de ocorrência de Churn com relação às outras variáveis disponíveis. No total serão 4 semanas de desafio.
 
 ## Semana 1
-Foi realizado a análise e o tratamento dos Dados recebidos da API da empresa
+Foram realizadas análises e tratamento dos Dados recebidos da API da empresa
 ## Semana 2
 Foram realizadas análises e demonstradas por meio de gráficos no Python
